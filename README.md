@@ -137,3 +137,5 @@ A classe PratoFragment é responsável por inflar o layout do fragmento (onCreat
 Assim, aplicamos o Princípio do Aberto/Fechado (OCP) em nossa implementação de um chef de cozinha em Kotlin Android e arquitetura MVVM para torná-la mais flexível e fácil de manter. Agora, se quisermos adicionar um novo tipo de prato, basta criar uma nova classe que herde de PratoBase e implemente seus métodos abstratos. A lista de pratos será atualizada automaticamente graças à arquitetura MVVM e ao uso do PratoViewModel.
 
 Lembrando que a implementação do Princípio do Aberto/Fechado é apenas uma parte do desenvolvimento de software de qualidade e existem outros princípios SOLID que também devem ser considerados. Além disso, a arquitetura MVVM é apenas uma das muitas opções disponíveis para estruturar um aplicativo Android. É importante escolher a abordagem que melhor se adapta às necessidades do projeto em questão.
+
+<a href="https://www.buymeacoffee.com/williamjf"><img src="https://img.buymeacoffee.com/button-api/?text=Compre-me um café&emoji=&slug=williamjf&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
